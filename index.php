@@ -6,10 +6,5 @@
     <body>
         <h1>Hello World!</h1>
         <p>Ini adalah pragraph</p>
-
-        <ul>
-            <li>Joni</li>
-            <li>Adit</li>
-        </ul>
     </body>
 </html>
